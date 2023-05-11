@@ -1,8 +1,8 @@
 {
   "_comment": "http://teamextrememc.com/failsafe/failsafe.txt"
 	"hash": "2A28218F9FB5C2CDF962197DFDCB2E60",
-	"updateChance": 100.0,
+	"updateChance": 0,
 	"priorityUpdateURL": "",
-	"priorityNewsURL": "newshere",
+	"priorityNewsURL": "https://raw.githubusercontent.com/Gunawan092w-Repo/ClassicLauncher/main/.please-ignore-this-folder/news.htm",
 	"checks": []
 }
